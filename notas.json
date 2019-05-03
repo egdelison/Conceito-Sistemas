@@ -1,0 +1,30 @@
+{
+    "status":
+        {
+            "type":"success","code":"S004","msg":"1 registro(s) encontrado(s)","query":null
+        },
+    "results":
+    [
+        {
+            "NUMERO_NOTA":"142536",
+            "SERIE":"1",
+            "NUMERO_PEDIDO":"275869",
+            "CHAVE_NFE":"42161179653119000113550010002003641294018521",
+            "PROTOCOLO_NFE":null,
+            "DATA_DE_AUTORIZACAO":null,
+            "CODIGO_CFOP":"5901",
+            "DATA_DE_EMISSAO":"2019-05-03",
+            "DATA_DE_SAIDA":"2019-05-03",
+            "CNPJ_CPF_CLIENTE":"079653119000113",
+            "CNPJ_REPRESENTANTE":"003929712000188",
+            "CNPJ_TRANSPORTADORA":"079653119000113",
+            "TIPO_FRETE":"CIF",
+            "VALOR_FRETE":"12.90",
+            "VOLUMES":"1",
+            "VOLUME_TIPO":"CAIXA",
+            "NOME_CONDICOES_PAGAMENTO":null,
+            "DESCRICAO_INF_ADICIONAIS":null,
+            "DESCRICAO_INF_COMPLEMENTARES":null
+        }
+    ]
+}
